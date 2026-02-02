@@ -25,3 +25,7 @@ Data Quality Challenges: A significant portion of the work involved cleaning "ou
 
 Conclusion
 This project demonstrates how data cleaning and visualization can turn a massive civic dataset into actionable insights. While NYC is generally efficient at handling high-visibility public nuisances, the data suggests that infrastructure-heavy requests require more specialized resource allocation to speed up completion.
+
+Tableau: https://public.tableau.com/app/profile/sandip.panchal/viz/EmployeeExpenseAnalysis_17698214367910/EmployeeExpenseAnalysis
+
+<img width="1514" height="1200" alt="image" src="https://github.com/user-attachments/assets/7e49863f-1fda-4a07-a4a3-7c981aedd6de" />
